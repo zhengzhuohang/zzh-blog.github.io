@@ -4,5 +4,5 @@
 ;(function () {
   window.SITE_CONFIG = {}
   // api接口请求地址
-  window.SITE_CONFIG['baseUrl'] = 'http://localhost:8080/'
+  window.SITE_CONFIG['baseUrl'] = 'https://localhost:8080/'
 })()
